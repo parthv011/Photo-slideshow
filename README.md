@@ -4,7 +4,7 @@ Visitors enter a name and email, tick a consent box and upload photos. Each phot
 (`slideshow.php`) within ~4 seconds and plays for a set duration. A returning visitor's earlier photos play right after the new ones.
 
 **Tech stack:** PHP 8.1+, MySQL/MariaDB (phpMyAdmin), Bootstrap 5, vanilla JS, GD for image processing.
-**Deployed link:** _add yours here_
+**Deployed link:** Not deployed. Runs locally on XAMPP. Repository: https://github.com/parthv011/Photo-slideshow
 
 ## Setup (XAMPP / WAMP / any PHP host)
 1. Copy this folder to `htdocs/photo-slideshow`.
